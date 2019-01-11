@@ -10,7 +10,7 @@ Important to note that the code has been tested on **ONLY** Linux-based OSs, and
 
 ## Running the program
 
-- Run the following code on terminal
+- Run the following code on terminal to install the dependencies:
   - `pip3 install beautifulsoup4`
   - `pip3 install requests`
 - Execute the code by using `python3 com_bestseller.py` and `python3 in_bestseller.py` in the current directory.
